@@ -1,0 +1,83 @@
+h1{
+    text-align: center;
+    color: orange;
+}
+.bannerimg {
+    text-align: center;
+    
+
+}
+
+.menu p{
+    text-align: center;
+    color: orange;
+}
+.navbar{
+    background-color:#7b2525;
+    border-radius: 10px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+.navbar li a:hover{
+    color: orange;
+}
+.search{
+    float: right;
+    color: whitesmoke;
+    padding: 12px 75px;
+}
+.navbar input{
+    border-radius: 4px;
+}
+.logo{
+    position: fixed;
+    height: 50px;
+    left: 0px;
+    width: 50px;
+
+}
+.heading{
+    color: black;
+    text-align: left;
+    font-size: small;
+    font-family:monospace;
+}
+.bannerimg{
+      align-items: center;
+
+}
+/* .detail{
+    display: flex;
+    text-align: center;
+} */
+/* .food-menue{ 
+    text-align: center;
+}  */
+/* p{
+    text-align: center;
+    display: flex;
+} */
+button{
+    background-color:#7b2525;
+    padding: 5px 10px;
+    border-radius: 8px;
+    color:whitesmoke;
+    cursor:pointer;
+    border: 2px whitesmoke;
+
+    
+}
+button:hover{
+    color: orange;
+}
